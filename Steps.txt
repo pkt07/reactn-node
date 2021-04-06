@@ -1,0 +1,11 @@
+Client
+1. Open VS Code 
+2. Load /client directory
+3. npm i in terminal
+4. npm start
+
+API
+1. Open VS Code 
+2. Load /api directory
+3. npm i in terminal
+4. npm start
